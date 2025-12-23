@@ -65,12 +65,9 @@ This project is designed to help beginners and intermediate learners build a str
 # Author
 
 Shakhaut Hassain
-
 Data Analyst
-
 Passionate about data, analytics, and building learning tools
 
-🔗 Live Project: https://onlinesqlcompiler.pythonanywhere.com/
 
 ⭐ Support
 
